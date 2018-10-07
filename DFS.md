@@ -23,7 +23,6 @@
 
 1.Main 작성  
 ```
-java
 static int[][] map;
 	static boolean[] visited;
 	static int N,end,input;
@@ -48,7 +47,6 @@ static int[][] map;
 시작점 1부터 최대값인 5까지 가는 방법만 조사한다. 
 
 ```
-java
 private static void DFS(int v) {
 		//DFS 구현
 		visited[v]=true;
@@ -66,7 +64,6 @@ private static void DFS(int v) {
 if 특정 지점까지 가는 방법은?  
 1부터 4까지 갈 수 있는 방법 모두를 찾아보자! 
 ```
-java
 private static void DFS(int v) {
 		//DFS 구현
 		visited[v]=true; // 방문한 곳을 체크해 준다.
@@ -96,5 +93,10 @@ private static void DFS(int v) {
 
 시작점에서 끝점으로 가는 모든 경로 노선 찾기 - 필수  
 [DFS모든경로찾기](https://gist.github.com/theSUNYOUNG/09deb3e28e27aa11791586a39edbe123)  
+[백준-1987 알파벳](https://gist.github.com/theSUNYOUNG/718e8dca106803c123412f8ae77c0244)  
+[백준-2146 다리만들기](https://gist.github.com/theSUNYOUNG/a38fe939c914ca3f956a63d2a45b1d76)  
+[백트래킹]  
+[정올-1840 치즈](https://gist.github.com/theSUNYOUNG/6c3bb3b1f747b69ada107c539b26c788)  
+
 
 여러 케이스 DFS 문제들 
