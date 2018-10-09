@@ -102,6 +102,7 @@ private static void DFS(int v) {
 
     
 [정올-1840 치즈](https://gist.github.com/theSUNYOUNG/6c3bb3b1f747b69ada107c539b26c788)  
-
+[백준-1890 점프](https://gist.github.com/theSUNYOUNG/e6dcc9d0a04f4b861a554005d059f399)  
+[백준-1987 알파벳](https://gist.github.com/theSUNYOUNG/a26c6854708ea40ab26f26bb28e26005)  
 
 여러 케이스 DFS 문제들 
