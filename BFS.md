@@ -8,8 +8,8 @@
 [백준 2583 영역 구하기](https://gist.github.com/theSUNYOUNG/ff11780f832571fdd81672134f91609d)  
 [백준 7562 나이트의 이동](https://gist.github.com/theSUNYOUNG/8e52161230ef2b104187bab9319d2bf4)  
 
-## 
-[치즈](https://gist.github.com/theSUNYOUNG/fb631620b4b37f25cc21bc19092a0b99)
-[백준 2146 다리만들기](https://gist.github.com/theSUNYOUNG/ac0d9b3ddc9640c7d92b36eee1b3e8c0) BFS/DFS 혼합해서 사용
-[백준 3055 탈출](https://gist.github.com/theSUNYOUNG/755d6dc17bc7a7916dc199a04d5cd54e) 두개의 BFS 순차적으로 처리   복습하기  
-[백준 7569 토마토](https://gist.github.com/theSUNYOUNG/adbd6793dba4e714ad26dd6f2da2b815)  복습하기  
+
+[치즈](https://gist.github.com/theSUNYOUNG/fb631620b4b37f25cc21bc19092a0b99)  
+[백준 2146 다리만들기](https://gist.github.com/theSUNYOUNG/ac0d9b3ddc9640c7d92b36eee1b3e8c0) BFS/DFS 혼합해서 사용  
+[백준 3055 탈출](https://gist.github.com/theSUNYOUNG/755d6dc17bc7a7916dc199a04d5cd54e) 두개의 BFS 순차적으로 처리  복습하기   
+[백준 7569 토마토](https://gist.github.com/theSUNYOUNG/adbd6793dba4e714ad26dd6f2da2b815) 복습하기   
