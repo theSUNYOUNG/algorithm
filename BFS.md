@@ -13,4 +13,5 @@
 [백준 2146 다리만들기](https://gist.github.com/theSUNYOUNG/ac0d9b3ddc9640c7d92b36eee1b3e8c0) BFS/DFS 혼합해서 사용  
 [백준 3055 탈출](https://gist.github.com/theSUNYOUNG/755d6dc17bc7a7916dc199a04d5cd54e) 두개의 BFS 순차적으로 처리  복습하기   
 [백준 7569 토마토](https://gist.github.com/theSUNYOUNG/adbd6793dba4e714ad26dd6f2da2b815) 복습하기   
-[정올 1160 장기](https://gist.github.com/theSUNYOUNG/59201016754d939e74bed5aacb71deea)  
+[정올 1160 장기](https://gist.github.com/theSUNYOUNG/59201016754d939e74bed5aacb71deea)특정지역의 말 잡는 가장 빠른   
+[정올 1462 보물섬](https://gist.github.com/theSUNYOUNG/63ff52f0ac6011c9a2afbc6799d4906e)BFS를 사용하여 거리가 가장 먼곳  
