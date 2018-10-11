@@ -16,3 +16,7 @@
 [정올 1160 장기](https://gist.github.com/theSUNYOUNG/59201016754d939e74bed5aacb71deea)특정지역의 말 잡는 가장 빠른   
 [정올 1462 보물섬](https://gist.github.com/theSUNYOUNG/63ff52f0ac6011c9a2afbc6799d4906e)BFS를 사용하여 거리가 가장 먼곳   
 [정올 1082 화염에서 탈출](https://gist.github.com/theSUNYOUNG/3d5c4d1f42c43c593ebe294932fa0a66) 두개에 큐에 넣고 한번씩 돌아가면서 확인  
+[백준 2178 미로탐색](https://gist.github.com/theSUNYOUNG/f47e7e1e14f439f46f37eb1069c70b7f) 지나온 모든 경로 출력해봄!!     
+
+[문제-지나온 경로들 모두 출력하는 코드 BFS/DFS](https://gist.github.com/theSUNYOUNG/1168ef5bc5815a4639580abecf34273e)  
+
