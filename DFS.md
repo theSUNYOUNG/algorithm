@@ -106,5 +106,7 @@ private static void DFS(int v) {
 [백준-1987 알파벳](https://gist.github.com/theSUNYOUNG/a26c6854708ea40ab26f26bb28e26005)  
 
 [정올 1681 해밀턴 순환회로](https://gist.github.com/theSUNYOUNG/d3e7e5868af299b42fb5d2b8b5a9db25)  
+[특정문자 찾기](https://gist.github.com/theSUNYOUNG/d1852e06cf8f06cf412d7b50febf3513)  
+
 
 여러 케이스 DFS 문제들 
