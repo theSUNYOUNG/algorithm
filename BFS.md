@@ -19,4 +19,9 @@
 [백준 2178 미로탐색](https://gist.github.com/theSUNYOUNG/f47e7e1e14f439f46f37eb1069c70b7f) 지나온 모든 경로 출력해봄!!     
 
 [문제-지나온 경로들 모두 출력하는 코드 BFS/DFS](https://gist.github.com/theSUNYOUNG/1168ef5bc5815a4639580abecf34273e)  
+지나온 경로 visited를 체크 하면서, 최단 거리를 구한다. -> list형식으로 update 해줄꺼면, 매번 최소값으로 값 변경!  
+아니면 큐에 달고 다니면서 거리를 계산해준다.  
+[백준 5014 스타트링크](https://gist.github.com/theSUNYOUNG/53ca55c106ba00708a061ed28c8669e5)  
+모든 곳을 돌면서 가장 최단 거리를 찾는다. 여기서는 매번 최소값으로 update 해주면서 최소값을 찾는다  
+[등산로 찾기](https://gist.github.com/theSUNYOUNG/a6f1f7afcf9eb43e5ec63a19cfe881b4)
 
