@@ -23,5 +23,7 @@
 아니면 큐에 달고 다니면서 거리를 계산해준다.  
 [백준 5014 스타트링크](https://gist.github.com/theSUNYOUNG/53ca55c106ba00708a061ed28c8669e5)  
 모든 곳을 돌면서 가장 최단 거리를 찾는다. 여기서는 매번 최소값으로 update 해주면서 최소값을 찾는다  
-[등산로 찾기](https://gist.github.com/theSUNYOUNG/a6f1f7afcf9eb43e5ec63a19cfe881b4)
+[등산로 찾기](https://gist.github.com/theSUNYOUNG/a6f1f7afcf9eb43e5ec63a19cfe881b4)  
+[2015.05.23 기출문제 폭탄](https://gist.github.com/theSUNYOUNG/5e2fd83dad96bc8e2b07b7bffcf78f50)  
+
 
