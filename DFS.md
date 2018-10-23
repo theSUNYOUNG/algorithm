@@ -109,4 +109,7 @@ private static void DFS(int v) {
 [특정문자 찾기](https://gist.github.com/theSUNYOUNG/d1852e06cf8f06cf412d7b50febf3513)  
 [형렬의 모든 조합 중 최대합,](https://gist.github.com/theSUNYOUNG/e66846967d85a94296eb82314c1accca)  
 
+[백준 1759 암호만들기](https://gist.github.com/theSUNYOUNG/367839437706da3490d58b5351520545)복습!  
+[백준 10819 차이를 최대로](https://gist.github.com/theSUNYOUNG/0b503f6763b6b91bcce564d234e5f351)모든 조합 만들기!! 로또랑비슷!복습!  
+
 여러 케이스 DFS 문제들 
