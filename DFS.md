@@ -111,6 +111,8 @@ private static void DFS(int v) {
 
 [백준 1759 암호만들기](https://gist.github.com/theSUNYOUNG/367839437706da3490d58b5351520545)복습!  
 [백준 10819 차이를 최대로](https://gist.github.com/theSUNYOUNG/0b503f6763b6b91bcce564d234e5f351)모든 조합 만들기!! 로또랑비슷!복습!  
-[백준 2661 좋은수열](https://gist.github.com/theSUNYOUNG/aeeeb391fd55745f46fd265df0f182f8) 모든조합!!  
+[백준 2661 좋은수열](https://gist.github.com/theSUNYOUNG/aeeeb391fd55745f46fd265df0f182f8) 모든조합!!    
+[백준 2529 부등호](https://gist.github.com/theSUNYOUNG/dfa53ac60417b052929bc0f478872d25) 모든조합인데, 최대 최소값 찾기.   
+
 
 여러 케이스 DFS 문제들 
