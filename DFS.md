@@ -113,6 +113,8 @@ private static void DFS(int v) {
 [백준 10819 차이를 최대로](https://gist.github.com/theSUNYOUNG/0b503f6763b6b91bcce564d234e5f351)모든 조합 만들기!! 로또랑비슷!복습!  
 [백준 2661 좋은수열](https://gist.github.com/theSUNYOUNG/aeeeb391fd55745f46fd265df0f182f8) 모든조합!!    
 [백준 2529 부등호](https://gist.github.com/theSUNYOUNG/dfa53ac60417b052929bc0f478872d25) 모든조합인데, 최대 최소값 찾기.   
+[정올 벽장문이동](https://gist.github.com/theSUNYOUNG/690c5be624516a1b105b5b9cb28e55d7)  
+
 
 
 여러 케이스 DFS 문제들 
