@@ -25,7 +25,8 @@
 모든 곳을 돌면서 가장 최단 거리를 찾는다. 여기서는 매번 최소값으로 update 해주면서 최소값을 찾는다  
 [등산로 찾기](https://gist.github.com/theSUNYOUNG/a6f1f7afcf9eb43e5ec63a19cfe881b4)  
 [2015.05.23 기출문제 폭탄](https://gist.github.com/theSUNYOUNG/5e2fd83dad96bc8e2b07b7bffcf78f50)  
-[백준 6593 상범빌딩](https://gist.github.com/theSUNYOUNG/8a7d479f4e43be910897b9c84e76493b)  
+[백준 6593 상범빌딩](https://gist.github.com/theSUNYOUNG/8a7d479f4e43be910897b9c84e76493b)   
+[자동차 경주대회](https://gist.github.com/theSUNYOUNG/93003b6aa9e4f4c413cb245a7884abff) visited체크 안함. 현재 위치보다 큰얘들 검색!  
 
 
 
