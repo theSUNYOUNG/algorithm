@@ -28,6 +28,8 @@
 [백준 6593 상범빌딩](https://gist.github.com/theSUNYOUNG/8a7d479f4e43be910897b9c84e76493b)   
 [자동차 경주대회](https://gist.github.com/theSUNYOUNG/93003b6aa9e4f4c413cb245a7884abff) visited체크 안함. 현재 위치보다 큰얘들 검색!  
 [백준 4485 녹색옷 입은 애가 젤다지](https://gist.github.com/theSUNYOUNG/4956efe3e4a64eb6c678d3b6b7a5f19c)  
+[백준 14442 벽부수고 이동하기](https://gist.github.com/theSUNYOUNG/bde3969e19d4db3871461c9ff1503579) visited체크하는법!!  
+[백준 1600 말이되고픈 원숭이](https://gist.github.com/theSUNYOUNG/336e732cf3ba9a9a28cdab275c038b7a)  
 
 
 
