@@ -115,7 +115,8 @@ private static void DFS(int v) {
 [백준 2529 부등호](https://gist.github.com/theSUNYOUNG/dfa53ac60417b052929bc0f478872d25) 모든조합인데, 최대 최소값 찾기.   
 [정올 벽장문이동](https://gist.github.com/theSUNYOUNG/690c5be624516a1b105b5b9cb28e55d7)  
 [백준 14888 연산자 끼워넣기](https://gist.github.com/theSUNYOUNG/5de2e9a245a187690636cbc971b4d556) 부등호랑 비슷  
-[백준 14502 연구소](https://gist.github.com/theSUNYOUNG/3287d6b114091b5199e790be8fc63165)  
+[백준 14502 연구소](https://gist.github.com/theSUNYOUNG/3287d6b114091b5199e790be8fc63165)   
+[백준 소문난 칠공주](https://gist.github.com/theSUNYOUNG/ffb7c472ca2fb786d7a39e79700e5c58)  
 
 
 
