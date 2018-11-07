@@ -30,7 +30,8 @@
 [백준 4485 녹색옷 입은 애가 젤다지](https://gist.github.com/theSUNYOUNG/4956efe3e4a64eb6c678d3b6b7a5f19c)  
 [백준 14442 벽부수고 이동하기](https://gist.github.com/theSUNYOUNG/bde3969e19d4db3871461c9ff1503579) visited체크하는법!!  
 [백준 1600 말이되고픈 원숭이](https://gist.github.com/theSUNYOUNG/336e732cf3ba9a9a28cdab275c038b7a)  
-[백준 2234 성관](https://gist.github.com/theSUNYOUNG/ab44b35e65e6d68bbcdb5432c48a750b)  
+[백준 2234 성곽](https://gist.github.com/theSUNYOUNG/ab44b35e65e6d68bbcdb5432c48a750b)   
+[백준 로봇](https://gist.github.com/theSUNYOUNG/28b3d0478c4a1412786913b1c990a9c1)  
 
 
 
