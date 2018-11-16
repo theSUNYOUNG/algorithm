@@ -5,5 +5,7 @@
 
 [DFS](https://github.com/theSUNYOUNG/algorithm/blob/master/DFS.md)
 
-[BFS](https://github.com/theSUNYOUNG/algorithm/blob/master/BFS.md)
+[BFS](https://github.com/theSUNYOUNG/algorithm/blob/master/BFS.md)  
+
+[dijkstra](https://github.com/theSUNYOUNG/algorithm/blob/master/dijkstra.md)
 
