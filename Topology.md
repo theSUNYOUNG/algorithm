@@ -12,4 +12,5 @@
 
 [백준 2252 줄세우기](https://gist.github.com/theSUNYOUNG/2cd746f3085227a692b17a3cf2f48aac)  
 [백준 2623 음악프로그램](https://gist.github.com/theSUNYOUNG/3a8c9c9c024ecd757720ce885c2d04f0)  
-[백준 1766 문제집](https://gist.github.com/theSUNYOUNG/19d1d0a0a56a26bdbd196db527e87d29)쉬운 문제를 먼저 풀어야 하기 때문에 우선순위 큐(PriorityQueue)를 이용하여 처리  
+[백준 1766 문제집](https://gist.github.com/theSUNYOUNG/19d1d0a0a56a26bdbd196db527e87d29)쉬운 문제를 먼저 풀어야 하기 때문에 우선순위 큐(PriorityQueue)를 이용하여 처리 
+[백준1005 ACM Craft](https://gist.github.com/theSUNYOUNG/fd66c9052264c8ed6c2a9b22cb9cac42) ** 순서대로 진행 하면서 걸리는 최소한의 시간을 계산   
